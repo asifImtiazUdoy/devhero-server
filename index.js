@@ -13,6 +13,10 @@ app.get('/', (req, res) => {
     res.send('DevHero API is running')
 })
 
+app.get('/categories', (req, res) => {
+    res.send(categories);
+})
+
 
 
 app.listen( port, () => {
