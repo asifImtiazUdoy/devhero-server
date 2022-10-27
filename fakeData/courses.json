@@ -1,0 +1,68 @@
+[
+    {
+      "id": "635a6313cf02cd0dfbd5244c",
+      "category_id": 1,
+      "picture": "https://www.astatraining.com/wp-content/uploads/2020/03/what-is-an-ethical-hacker.jpg",
+      "course_name": "Ethical Hacking",
+      "description": "Gain the ability to do ethical hacking and penetration testing by taking this course! Get answers from an experienced IT expert to every single question you have related to the learning you do in this course including installing Kali Linux, using VirtualBox, basics of Linux, Tor, Proxychains, VPN, Macchanger, Nmap, cracking wifi, aircrack, DoS attacks, SLL strip, known vulnerabilities, SQL injections, cracking Linux passwords, and more topics that are added every month!",
+      "author": "Kelly Fields",
+      "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uUhhISOKkw5MpBnsCMWTiHZ9D8-bzGNsgw&usqp=CAU",
+      "rating": 5,
+      "duration":"90 Days"
+    },
+    {
+      "id": "635a63132df61ce273762e9c",
+      "category_id": 1,
+      "picture": "https://www.exatosoftware.com/blog/wp-content/uploads/2020/04/full-stack-developer.jpg",
+      "course_name": "Full Stack Development",
+      "description": "Welcome to the Ultimate Web Developer Bootcamp. This is your one-stop-shop to learn front-end AND back-end development. We'll take you from absolute beginner to competent full-stack web developer in a matter of weeks. This course is for beginners - no prior experience is required. This course is for entrepreneurs & hobbyists. This course is for those looking for a career change. This course is for anyone who wants to learn front-end and backend development. This course is for students",
+      "author": "Cervantes Hatfield",
+      "author_img": "https://media.istockphoto.com/photos/smiling-indian-man-looking-at-camera-picture-id1270067126?k=20&m=1270067126&s=612x612&w=0&h=ZMo10u07vCX6EWJbVp27c7jnnXM2z-VXLd-4maGePqc=",
+      "rating": 4,
+      "duration":"180 Days"
+    },
+    {
+      "id": "635a6313a27e139ce3f601c9",
+      "category_id": 1,
+      "picture": "https://www.cloudways.com/blog/wp-content/uploads/laravelpillar.jpg",
+      "course_name": "Laravel Advance Topic",
+      "description": "Laravel has become one of the most popular if not the most popular PHP framework. Employers are asking for this skill for all web programming jobs and in this course we have put together all of them, to give you the best chance of landing that job; or taking it to the next level. Why is Laravel so popular? Because once you learn it, creating complex applications are easy to do, because thousands of other people have created code we can plug (packages) into our Laravel application to make it even better. There are many reasons why Laravel is on the top when it comes to PHP frameworks but we are not here to talk about that, right?",
+      "author": "Montoya Mcclure",
+      "author_img": "https://img.freepik.com/free-photo/serious-looking-male-handsome-guy-with-blond-hair-wearing-grey-hoodie-people-emotion-concept-watching-confident-isolated-grey-wall_295783-13901.jpg?w=2000",
+      "rating": 4,
+      "duration":"60 Days"
+    },
+    {
+      "id": "635a6313a7c8d5cf8f5de9ac",
+      "category_id": 3,
+      "picture": "https://images.squarespace-cdn.com/content/v1/5630dfc6e4b0303d4aea132b/b9fcecff-6833-4a09-b6ba-6a07443c730c/Videography.jpg",
+      "course_name": "Video Editing A-Z",
+      "description": "Do you want to learn how to edit your own amazing looking and sounding videos from home? Are you wanting to make more professional, unique, memorable, engaging, and impressive videos? Perfect! You've made it to the right video editing course! By the end of this course, you'll work right along with me to create your own INSTAGRAM MONTAGE, TIK TOK EDIT, YOUTUBE VLOG, SHOWCASE VIDEO, PROMOTIONAL VIDEO, COMMERCIAL, MUSIC VIDEO & DEMO REEL in all aspect ratios. The goal of this course is to give you all the knowledge and techniques that you need to enjoy the editing process and create videos that you are truly proud of! Whether you're editing Instagram videos, YouTube videos, videos for professional clients, personal projects, from a smartphone or professional camera... The actionable takeaways from this course will benefit you regardless of your equipment or budget.",
+      "author": "Delores Levine",
+      "author_img": "https://images.unsplash.com/photo-1595152452543-e5fc28ebc2b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVuJTIwcG9ydHJhaXR8ZW58MHx8MHx8&w=1000&q=80",
+      "rating": 5,
+      "duration": "30 Days"
+    },
+    {
+      "id": "635a63136155bc7c3c07e298",
+      "category_id": 3,
+      "picture": "https://www.thoughtco.com/thmb/GAtp0KJWAXudEuz9ufGu2jKAdYQ=/3909x2199/smart/filters:no_upscale()/film-photography-592347645-59e4d0609abed500119e7b14.jpg",
+      "course_name": "Professional Photography for Beginners",
+      "description": "'Probably the best course I have taken on Udemy and great fun '- Diane (enrolled in over a dozen other photography courses). A set of over 50 video tutorials of photography tips and tricks, each one demonstrates one specific DSLR or compact camera photography tip. This course is aimed at amateur photographers from beginners through to enthusiasts. Photography training that works. See immediate improvements in your photos. Easy to follow and understand, with a fun teaching style All boring bits removed (well, most of them anyway!)",
+      "author": "Cabrera Watkins",
+      "author_img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFsZSUyMHBvcnRyYWl0fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "rating": 4.5,
+      "duration": "30 Days"
+    },
+    {
+      "id": "635a631378cd68286a6b81ab",
+      "category_id": 5,
+      "picture": "https://media.istockphoto.com/photos/musical-instruments-picture-id894058154?k=20&m=894058154&s=612x612&w=0&h=KOVecxdicA4NUd4fK-XQi7Lts7eqoQnJtJxBXkgYDsw=",
+      "course_name": "Instrumental Basic for Beginners",
+      "description": " Would You Like to Eliminate Every Struggle That You Are Faced With When Starting to Play Guitar? This course is your 'Ticket' to playing guitar. It is the most direct and to the point complete online guitar course. Follow the Videos in the Exact Same Order and You Will See a Huge Positive Change in Your Playing 306 Lectures/Videos with PDF Attachments Over 40 hours of video It's available on a PC or MAC and there is a iPad, iPhone and Android app ready to go! Keeping track of which videos(lectures) you have already watched is a breeze.  Udemy has a great way of keeping track of your completed lessons(lectures). The entire course is organized in step-by-step easy to follow layout The more you practice the better you will get.  With the Right Practice style you will be able to witness fast results! Erich's teachings are different than all of the other online teachers.  He has made it super easy to be successful at playing guitar.  All you have to do is follow the videos in order and put together some good practice habits.",
+      "author": "Eddie Valenzuela",
+      "author_img": "https://img.freepik.com/free-photo/portrait-black-man-isolated_53876-40305.jpg?size=626&ext=jpg",
+      "rating": 3,
+      "duration": "90 Days"
+    }
+]

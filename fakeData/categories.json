@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "category_name": "Technology"
+  },
+  {
+    "id": 3,
+    "category_name": "Media"
+  },
+  {
+    "id": 4,
+    "category_name": "Soft Skill"
+  },
+  {
+    "id": 5,
+    "category_name": "Music"
+  }
+]
